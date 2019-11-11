@@ -18,6 +18,3 @@ def run_guessing_game
   end
 
 end
-def say_goodbye
-  
-end
